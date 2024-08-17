@@ -14,8 +14,8 @@ This repository contains Terraform configuration files to manage infrastructure 
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/vishwaravi321/Terraform.git your-rep
+cd your-rep
 ```
 
 ### 2. Configure Your Variables
