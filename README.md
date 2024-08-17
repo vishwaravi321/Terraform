@@ -84,12 +84,6 @@ If you want to contribute to this repository, please fork the repository and sub
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-
-Vishwa R
-[Your LinkedIn](https://www.linkedin.com/in/vishwa-ravichandran/)  
-[Your Website](https://vishwaravi321.github.io)
-
 
 ### Added Note:
 
