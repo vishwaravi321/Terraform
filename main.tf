@@ -27,7 +27,7 @@ output "ip" {
   value = hcloud_server.my_server.ipv4_address
 }
 
-output "Server Type" {
+output "Server-Type" {
   value = hcloud_server.my_server.server_type
 }
 
