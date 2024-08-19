@@ -1,9 +1,9 @@
-hcloud_token     =      "hetzner token"
-name             =      "name of the server to be created"
-image            =      "image/os for the server"
-server_type      =      "type of the server"
-location         =      "Location"
-ssh_key          =      "SSH Key"
+hcloud_token     =      "" #<hetzner token>
+name             =      "" #<name of the server to be created>
+image            =      "" #<image/os for the server>
+server_type      =      "" #<type of the server>
+location         =      "" #<Location>
+ssh_key          =      "" #<SSH Key>
 
 
 
