@@ -84,9 +84,3 @@ If you want to contribute to this repository, please fork the repository and sub
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-### Added Note:
-
-- **Update Locations and Images**: Added a section reminding users to periodically check and update location and image values according to Hetzner's latest offerings.
-
-This ensures that users are aware of the need to keep their configurations up-to-date with Hetzner’s current offerings.
